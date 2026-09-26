@@ -61,11 +61,11 @@ export default function Home() {
             <div className="space-y-4 text-neutral-400 font-sans leading-relaxed">
               <p>
                 I am Azerian, a relentless CTF player with a proven track record. 
-                Beyond my solo achievements, I am a core member of <strong>0xV01D</strong>.
+                Beyond my solo achievements, I was previously a core member of my former teams, <strong>0xV01D</strong> and <strong>Team CTC</strong>.
               </p>
               <div className="bg-neutral-900 p-6 border border-neutral-800 rounded-sm">
                 <div className="flex items-center gap-2 text-white font-mono mb-2">
-                  <Flag size={18} /> 0xV01D Stats
+                  <Flag size={18} /> Former Team: 0xV01D Stats
                 </div>
                 <ul className="space-y-2 text-sm font-mono mt-4">
                   <li className="flex justify-between border-b border-neutral-800 pb-2">
